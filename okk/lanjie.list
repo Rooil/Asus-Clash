@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadsserving.cn
+DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,ssadscdn.cn
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-KEYWORD,googleads
+DOMAIN,pikpak_push-1-v1211569.deta.app
+DOMAIN,clients3.google.com
+DOMAIN-SUFFIX,appcenter.ms
+IP-CIDR,101.33.230.158/32,no-resolve
