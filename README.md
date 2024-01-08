@@ -1,2 +1,2 @@
 # Asus-Clash
-路由器Clash订阅转换规则
+Clash基本规则订阅文件
